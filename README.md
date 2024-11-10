@@ -1,4 +1,4 @@
-if you somehow found this: leave. this isnt finished. Leave
+if you somehow found this: leave. this isnt finished. Leave. you'll know ehen its good enough when i mention it in a youtube video about it. MikeyTV10 on youtube btw.
 
 scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) then modified for use in [PenguinMod](https://studio.penguinmod.com) then modified for use in [Snail IDE](https://editor.snail-ide.com) 😀, and then in [RoeCode EDU](https://mikeytv10.github.io/RoeCode-EDU.github.io/)
 
